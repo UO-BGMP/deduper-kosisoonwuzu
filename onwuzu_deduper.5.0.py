@@ -13,7 +13,8 @@
     # onwuzu_deduper.py --paired <paired>
     # onwuzu_deduper.py -u <umi reference file> 
     # onwuzu_deduper.py --umi <umi reference file>
-
+    # onwuzu_deduper.py -d <prefix>
+    # onwuzu_deduper.py --dups <prefix for removed duplicates>
 
     
 import argparse
